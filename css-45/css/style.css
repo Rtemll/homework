@@ -1,0 +1,22 @@
+.block {
+    background: #a99f9f90;
+    width: 1200px;
+    height: 500px;
+    border: 1px solid #000;
+    border-radius: 20px 0 0 20px;
+    overflow: auto;
+}
+
+.block-1 {
+    display: inline-block;
+    box-sizing: border-box;
+    background: burlywood;
+    width: 230px;
+    height: 200px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 5px;
+    box-shadow: inset 1px 0 8px #000;
+
+}
